@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Heather-Haymond
-- 👀 I’m interested in ... Front end development 
-- 🌱 I’m currently learning ... creating repositories, pushing files and basic JavaScript
-- 💞️ I’m looking to collaborate on ... anything that will build my practical coding skillset. 
+- 👀 I’m interested in ... learning loops, functions, conditionals and anything Front end development 
+- 🌱 I’m currently learning ... functions arrays and other basic JavaScript
+- 💞️ I’m looking to collaborate on ... practical coding skillset. I'm open to ideas
 - 📫 How to reach me ... Hheatherjean11@gmail.com
 
 <!---
