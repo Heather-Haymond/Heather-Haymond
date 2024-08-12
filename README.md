@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Heather-Haymond
-- 👀 I’m interested in ... learning loops, functions, conditionals and anything Front end development 
-- 🌱 I’m currently learning ... functions arrays and other basic JavaScript
-- 💞️ I’m looking to collaborate on ... practical coding skillset. I'm open to ideas
+- 👀 I’m interested in ... Full Stack web app development 
+- 🌱 I’m currently learning ... React, Redux, and SQL
+- 💞️ I’m looking to collaborate on ... I'm open to ideas. What sparks joy? What makes quality of life that much better? What's fun, interesting or a learing adventure? Sign me UP!!
 - 📫 How to reach me ... Hheatherjean11@gmail.com
 
 <!---
