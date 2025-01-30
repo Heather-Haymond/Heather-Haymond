@@ -51,12 +51,14 @@ Why Choose Nest8?
 Nest8 empowers small businesses to take control of their finances, streamline operations, and plan for long-term growth.
 
 Education & Certifications
-🎓 Full-Stack Web Development – Prime Digital Academy
+🎓 Full-Stack Web Development – Prime Digital Academy,
 🎓 Frontend Web Development – Promineo Tech
 🎓 Microsoft Azure Fundamentals (AZ-900)
 
 Let's Connect!
-Check out my GitHub for more projects or connect with me on www.linkedin.com/in/heather-haymond-aa2862259 to collaborate! 🚀
+Check out my GitHub for more projects or connect with me on www.linkedin.com/in/
+heather-haymond-aa2862259
+ to collaborate! 🚀
 
 
 
