@@ -56,7 +56,7 @@ Education & Certifications
 🎓 Microsoft Azure Fundamentals (AZ-900)
 
 Let's Connect!
-Check out my GitHub for more projects or connect with me on LinkedIn to collaborate! 🚀
+Check out my GitHub for more projects or connect with me on www.linkedin.com/in/heather-haymond-aa2862259 to collaborate! 🚀
 
 
 
