@@ -20,7 +20,7 @@ Postman – API development and testing.
 WordPress Development – Security, performance optimization, and custom integrations.
 
 Projects:
-Watch the videos for a quick demo and behind-the-scenes development highlights!
+⬇️⬇️Watch the videos for a quick demo and behind-the-scenes development highlights!⬇️⬇️
 
 [Fruit Market App](https://youtu.be/ktinLmaFKmQ?si=OJCFm35vRiA-ahrD)
 A real-time marketplace app where users can buy and sell fruits based on fluctuating market prices. Built with React, Redux, and Node.js, this app features live price updates, an intuitive UI, and a PostgreSQL-backed inventory system.
