@@ -1,16 +1,19 @@
 I'm a full-stack developer passionate about building scalable, efficient, and user-friendly web applications. With a strong foundation in frontend, backend, database management, and cloud computing, I specialize in delivering modern, high-performance solutions. My background includes completing Full-Stack Web Development at Prime Digital Academy and Frontend Web Development at Promineo Tech.
 
 Tech Stack👩🏼‍💻💽📱
+
 ✅Frontend Development:
 React.js, Redux, JavaScript (ES6+), jQuery – Dynamic, component-based UI development with state management.
 Material-UI, Bootstrap, CSS, HTML – Modern styling and responsive design.
 AJAX, REST APIs – Seamless data fetching and integration.
 Figma – UI/UX design and prototyping.
+
 ✅Backend Development:
 Node.js, Express.js – Scalable RESTful API development.
 PostgreSQL – Relational database management with optimized queries.
 JSON Web Tokens (JWT) – Secure user authentication and authorization.
 Mocha, Chai – Backend testing frameworks for ensuring code reliability.
+
 ✅Cloud & Dev Tools:
 Microsoft Azure (AZ-900 Certified) – Cloud services, hosting, and security.
 Postman – API development and testing.
@@ -18,6 +21,7 @@ WordPress Development – Security, performance optimization, and custom integra
 
 Projects:
 Watch the videos for a quick demo and behind-the-scenes development highlights!
+
 [Fruit Market App](https://youtu.be/ktinLmaFKmQ?si=OJCFm35vRiA-ahrD)
 A real-time marketplace app where users can buy and sell fruits based on fluctuating market prices. Built with React, Redux, and Node.js, this app features live price updates, an intuitive UI, and a PostgreSQL-backed inventory system.
 
