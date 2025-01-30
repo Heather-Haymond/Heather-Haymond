@@ -28,7 +28,6 @@ A real-time marketplace app where users can buy and sell fruits based on fluctua
 
 [Lending Library](https://youtu.be/jl3JgsaUAHg?si=F5FQCdi_QprGbXbz) 📚
 Check out my full-stack lending library app! 🚀 Built with a sleek React frontend, Node.js/Express backend, and PostgreSQL database, this app lets users browse, borrow, and return books with ease.
-
 Key Features:
 ✅ Real-time updates – Stay informed on book availability instantly.
 ✅ User authentication – Secure login and personalized user experience.
@@ -37,7 +36,6 @@ Key Features:
 
 [Nest8 ](https://youtu.be/tyZw5iQzEtM?si=FUrFbd25LZa06MYF)– Smart Financial Tracking for Small Businesses 💰
 Nest8 is a financial tracking platform designed to help small businesses enhance their financial health and strategic decision-making.
-
 Key Features:
 ✅ Profitability Analysis – Track revenue, expenses, and profit margins to identify areas for improvement.
 ✅ Financial Ratios & Insights – Calculate key metrics like ROE, asset turnover, and leverage ratios for better financial planning.
