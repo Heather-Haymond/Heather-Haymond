@@ -18,11 +18,11 @@ WordPress Development – Security, performance optimization, and custom integra
 
 Projects:
 Watch the videos for a quick demo and behind-the-scenes development highlights!
-➡️[Fruit Market App](https://youtu.be/ktinLmaFKmQ?si=OJCFm35vRiA-ahrD)
+[Fruit Market App](https://youtu.be/ktinLmaFKmQ?si=OJCFm35vRiA-ahrD)
 A real-time marketplace app where users can buy and sell fruits based on fluctuating market prices. Built with React, Redux, and Node.js, this app features live price updates, an intuitive UI, and a PostgreSQL-backed inventory system.
 
-Watch the video:
-➡️[Lending Library](https://youtu.be/jl3JgsaUAHg?si=F5FQCdi_QprGbXbz) 📚
+
+[Lending Library](https://youtu.be/jl3JgsaUAHg?si=F5FQCdi_QprGbXbz) 📚
 Check out my full-stack lending library app! 🚀 Built with a sleek React frontend, Node.js/Express backend, and PostgreSQL database, this app lets users browse, borrow, and return books with ease.
 
 Key Features:
@@ -30,8 +30,8 @@ Key Features:
 ✅ User authentication – Secure login and personalized user experience.
 ✅ Responsive design – Works seamlessly across devices.
 
-Watch the video:
-➡️[Nest8 ](https://youtu.be/tyZw5iQzEtM?si=FUrFbd25LZa06MYF)– Smart Financial Tracking for Small Businesses 💰
+
+[Nest8 ](https://youtu.be/tyZw5iQzEtM?si=FUrFbd25LZa06MYF)– Smart Financial Tracking for Small Businesses 💰
 Nest8 is a financial tracking platform designed to help small businesses enhance their financial health and strategic decision-making.
 
 Key Features:
